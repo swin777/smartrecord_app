@@ -1,0 +1,104 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - MapLibre (5.12.1)
+  - maplibre_gl (0.0.1):
+    - Flutter
+    - MapLibre (~> 5.12.1)
+    - MapLibreAnnotationExtension (~> 0.0.1-beta.2)
+  - MapLibreAnnotationExtension (0.0.1-beta.2):
+    - MapLibre (~> 5.12.0)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - Toast (4.0.0)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - MapLibre (from `https://github.com/m0nac0/maplibre-cocoapods.git`)
+  - maplibre_gl (from `.symlinks/plugins/maplibre_gl/ios`)
+  - MapLibreAnnotationExtension (from `https://github.com/m0nac0/maplibre-annotation-extension.git`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - Toast
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  MapLibre:
+    :git: https://github.com/m0nac0/maplibre-cocoapods.git
+  maplibre_gl:
+    :path: ".symlinks/plugins/maplibre_gl/ios"
+  MapLibreAnnotationExtension:
+    :git: https://github.com/m0nac0/maplibre-annotation-extension.git
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+CHECKOUT OPTIONS:
+  MapLibre:
+    :commit: 552f0bf90755f6e00cb5882a5c0c89bd4d8633d0
+    :git: https://github.com/m0nac0/maplibre-cocoapods.git
+  MapLibreAnnotationExtension:
+    :commit: d7dee65155fd50bfab7f94a484eac05ff09beea9
+    :git: https://github.com/m0nac0/maplibre-annotation-extension.git
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  fluttertoast: 16fbe6039d06a763f3533670197d01fc73459037
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  geolocator_apple: cc556e6844d508c95df1e87e3ea6fa4e58c50401
+  MapLibre: d9f0a2d2b0e0a83611bb7bcb03ef2bcd701efb56
+  maplibre_gl: 9a036eeac06dcf153f84d90c33099fb40b7e15e0
+  MapLibreAnnotationExtension: 6a76d7ea48a44953095fbf95331ac67c7f4fa0be
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+  webview_flutter_wkwebview: b7e70ef1ddded7e69c796c7390ee74180182971f
+
+PODFILE CHECKSUM: 7b39e953e0244b4fc73ce44b5aeca40a2c718c80
+
+COCOAPODS: 1.10.2
